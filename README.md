@@ -1,5 +1,6 @@
-<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeong Minseok Github&fontSize=90" /></h3>
-
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jung Minseok%20Github&fontSize=90" />	
+</div>
 
  &nbsp;
  &nbsp;
