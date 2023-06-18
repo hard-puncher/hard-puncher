@@ -21,7 +21,7 @@
 &nbsp;
 &nbsp;
 
-<h3 align="center">️🧑Portfolio️🧑</h3>
+<h3 align="center">🎨Portfolio️🎨</h3>
 <p align="center"><a href="https://spectacular-crop-26c.notion.site/7b155cdb6cba4663a38c5dad2162b01a?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></p>
  
 &nbsp;
