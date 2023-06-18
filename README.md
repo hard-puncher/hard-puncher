@@ -1,5 +1,34 @@
 ### Hi there 👋
+<h3 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeong Minseok&fontSize=90" /></h3>
 
+
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ 
+<h3 align="center">⚒️Tech Stack⚒️</h3>
+<p align="center">
+ <img src ="https://img.shields.io/badge/unity-363636?style=for-the-badge&logo=Unity&logoColor=white"></a>&nbsp
+ <img src ="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>&nbsp
+</p>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+<h3 align="center">️🧑Portfolio️🧑</h3>
+<p align="center"><a href="[https://youthful-lupin-1c9.notion.site/Portfolio-4aea2f840d96430ba36e3806d65c93b8](https://spectacular-crop-26c.notion.site/7b155cdb6cba4663a38c5dad2162b01a)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></p>
+ 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <!--
 **hard-puncher/hard-puncher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
